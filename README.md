@@ -37,6 +37,16 @@ Find alive hosts in a network:
 | `-o`, `--output` | Save JSON report |
 | `--html` | Save HTML report |
 
+## Screenshots
+
+Before (test server running on port 8080):
+
+![Before](before.jpg.jpeg)
+
+After (server stopped, no open ports):
+
+![After](after.jpg.jpeg)
+
 ## Validation
 Results were compared with Nmap on a local test server (port 8080). Both tools detected the same open port.
 
