@@ -56,5 +56,4 @@ Results were compared with Nmap on a local test server (port 8080). Both tools d
 - UDP scanning
 
 ## Disclaimer
-Use only on systems you own or have written permission to test. Unauthorized scanning may be illegal.# netscan
-vulnerability scanner
+Use only on systems you own or have written permission to test. Unauthorized scanning may be illegal.
